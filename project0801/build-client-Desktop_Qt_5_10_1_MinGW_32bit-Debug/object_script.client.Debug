@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\widget.o
+./debug\sec_sig.o
+./debug\main_widget.o
+./debug\hone_secel.o
+./debug\hone_secel_text.o
+./debug\test_1.o
+./debug\test_test.o
+./debug\moc_widget.o
+./debug\moc_sec_sig.o
+./debug\moc_main_widget.o
+./debug\moc_hone_secel.o
+./debug\moc_hone_secel_text.o
+./debug\moc_test_1.o
+./debug\moc_test_test.o
+);

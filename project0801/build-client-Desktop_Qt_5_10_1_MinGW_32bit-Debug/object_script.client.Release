@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\sec_sig.o
+./release\main_widget.o
+./release\hone_secel.o
+./release\hone_secel_text.o
+./release\test_1.o
+./release\test_test.o
+./release\moc_widget.o
+./release\moc_sec_sig.o
+./release\moc_main_widget.o
+./release\moc_hone_secel.o
+./release\moc_hone_secel_text.o
+./release\moc_test_1.o
+./release\moc_test_test.o
+);
